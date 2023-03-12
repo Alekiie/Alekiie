@@ -8,10 +8,10 @@
 <h3 align="center">JavaScript | SQL | React Dev</h3>
 
 <p align="center">
-I am a FullStack Web Developer specializing in Javascript and Django. Am also a python programmer.I enjoy creating websites, writing technical articles and collaborating on open source projects. 
+I am a  Web Developer specializing in React. Am also a JavaScript  programmer.I enjoy creating websites, writing technical articles and collaborating on open source projects. 
 
 <p align="center">Reach me out for collaboration on a project or to hire me...</p>
-<!-- - Currently working on React and Django projects
+<!-- - Currently working on React and SQL projects
 - Looking to collaborate on web projects
 - Ask me about Web Development -->
 
@@ -26,8 +26,6 @@ I am a FullStack Web Developer specializing in Javascript and Django. Am also a 
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/C-00000F?style=for-the-badge&logo=c&logoColor=white">
