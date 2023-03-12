@@ -5,7 +5,7 @@
  I am Alexander Njogu.
  </h1>
  
-<h3 align="center">Python | SQL | Javascript | Django Web Developer</h3>
+<h3 align="center">JavaScript | SQL | React Dev</h3>
 
 <p align="center">
 I am a FullStack Web Developer specializing in Javascript and Django. Am also a python programmer.I enjoy creating websites, writing technical articles and collaborating on open source projects. 
