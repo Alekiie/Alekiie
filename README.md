@@ -5,10 +5,12 @@
  I am Alexander Njogu.
  </h1>
  
-<h3 align="center"> React | Node.js | Django Web Developer</h3>
+<h3 align="center"> React | Node.js | Flask Developer</h3>
 
 <p align="center">
-I am a  Web Developer specializing in React. Am also a JavaScript  programmer.I enjoy creating websites, writing technical articles and collaborating on open source projects. 
+
+  Passionate developer with expertise in building scalable applications using React, Node.js, and Flask. Skilled in both frontend and backend development, with a strong focus on creating efficient, user-friendly solutions. Dedicated to continuous learning and staying updated with the latest technologies.
+ 
 
 <p align="center">Reach me out for collaboration on a project or to hire me...</p>
 <!-- - Currently working on React and SQL projects
@@ -22,16 +24,16 @@ I am a  Web Developer specializing in React. Am also a JavaScript  programmer.I 
 <h3 align="center">My Tech Stack</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/C-00000F?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-2320232a.svg?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-404D59?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+<img src="https://img.shields.io/badge/Flask-14354B?style=for-the-badge&logo=flask&logoColor=black">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 </p>
 
