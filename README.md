@@ -50,7 +50,8 @@
   <p align="center">
   <table align="center">
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alekiie&count_private=true&theme=algolia&v2&layout=compact"></td> 
+      <td><!--START_SECTION:waka-->
+<!--END_SECTION:waka--></td> 
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Alekiie&show_icons=true&theme=algolia"></td>     
   </tr>   
 </table>
