@@ -43,8 +43,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alekiie&show_icons=true&theme=algolia)
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alekiie&count_private=true&theme=algolia&v2) -->
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alekiie&count_private=true&theme=algolia&v2) 
+</p> -->
   
   <h3 align="center">My Stats</h3>
   <p align="center">
