@@ -9,7 +9,7 @@
 
 <p align="center">
 
-  Passionate developer with expertise in building scalable applications using React, Node.js, and Flask. Skilled in both frontend and backend development, with a strong focus on creating efficient, user-friendly solutions. Dedicated to continuous learning and staying updated with the latest technologies.
+ Software engineer with a track record of applying technical expertise and collaboration to enhance system health, scalability, and long-term organisational excellence.
  
 
 <p align="center">Reach me out for collaboration on a project or to hire me...</p>
@@ -54,25 +54,7 @@
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Alekiie&show_icons=true&theme=algolia"></td>     
   </tr>   
 </table>
-<!--START_SECTION:waka-->
 
-```rust
-From: 18 January 2023 - To: 12 January 2025
-
-Total Time: 710 hrs 23 mins
-
-JavaScript         387 hrs 21 mins >>>>>>>>>>>>>>===========   54.32 %
-Python             75 hrs 34 mins  >>>======================   10.60 %
-HTML               65 hrs 55 mins  >>=======================   09.25 %
-Java               57 hrs 32 mins  >>=======================   08.07 %
-CSS                45 hrs 43 mins  >>=======================   06.41 %
-C                  10 hrs 13 mins  =========================   01.43 %
-Git Config         8 hrs 37 mins   =========================   01.21 %
-XML                7 hrs 40 mins   =========================   01.08 %
-Kotlin             7 hrs 33 mins   =========================   01.06 %
-```
-
-<!--END_SECTION:waka-->
 
 </p>
 
